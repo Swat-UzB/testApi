@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test Api</string>
+    <string name="desc">restaurant image</string>
+    <string name="visit_site">Visit site</string>
+    <string name="average_cost_for_two">Average cost for two:</string>
+    <string name="open">Open:</string>
+    <string name="phone_number">phone number:</string>
+    <string name="cuisines">Cuisines:</string>
+</resources>
